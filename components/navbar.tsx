@@ -30,7 +30,7 @@ export default function Navbar() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
             >
-              NepalAI
+              AlgenTech
             </motion.span>
           </Link>
         </div>

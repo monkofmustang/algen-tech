@@ -8,7 +8,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "NepalAI - Advanced AI Solutions",
+  title: "AlgenTech - Advanced AI Solutions",
   description: "Cutting-edge AI software and consulting services for businesses in Nepal",
     generator: 'v0.dev'
 }

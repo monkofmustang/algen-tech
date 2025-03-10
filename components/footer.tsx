@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2">
               <span className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-                NepalAI
+                AlgenTech
               </span>
             </Link>
             <p className="text-sm text-gray-400">Pioneering AI solutions for Nepal's digital future.</p>
@@ -110,7 +110,7 @@ export default function Footer() {
         </div>
         <div className="mt-12 border-t border-gray-800 pt-8">
           <p className="text-center text-xs text-gray-400">
-            &copy; {new Date().getFullYear()} NepalAI. All rights reserved.
+            &copy; {new Date().getFullYear()} AlgenTech. All rights reserved.
           </p>
         </div>
       </div>

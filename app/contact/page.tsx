@@ -90,7 +90,7 @@ export default function ContactPage() {
                   <Mail className="h-6 w-6 text-purple-600 mt-0.5" />
                   <div>
                     <h3 className="font-bold">Email Us</h3>
-                    <p className="text-gray-500 dark:text-gray-400">info@nepalai.com</p>
+                    <p className="text-gray-500 dark:text-gray-400">info@AlgenTech.com</p>
                   </div>
                 </div>
               </div>
@@ -213,7 +213,7 @@ export default function ContactPage() {
           <div className="mx-auto max-w-5xl mt-8">
             <div className="aspect-video overflow-hidden rounded-xl">
               <img
-                alt="Map of NepalAI office location"
+                alt="Map of AlgenTech office location"
                 className="w-full h-full object-cover"
                 src="/placeholder.svg?height=600&width=1200"
               />

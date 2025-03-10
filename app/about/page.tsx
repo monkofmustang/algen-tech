@@ -9,7 +9,7 @@ export default function AboutPage() {
           <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
             <div className="flex flex-col justify-center space-y-4">
               <div className="space-y-2">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">About NepalAI</h1>
+                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">About AlgenTech</h1>
                 <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
                   We're on a mission to transform businesses in Nepal and beyond through innovative AI solutions.
                 </p>
@@ -45,7 +45,7 @@ export default function AboutPage() {
                 <h3 className="text-xl font-bold">Our Beginning</h3>
               </div>
               <p className="text-gray-500 dark:text-gray-400">
-                Founded in 2018 by a team of AI researchers and software engineers, NepalAI began with a vision to bring
+                Founded in 2018 by a team of AI researchers and software engineers, AlgenTech began with a vision to bring
                 cutting-edge AI technology to Nepal. What started as a small consulting firm has grown into the
                 country's premier AI solutions provider.
               </p>
@@ -97,7 +97,7 @@ export default function AboutPage() {
               </div>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Meet the Experts</h2>
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                The talented individuals behind NepalAI
+                The talented individuals behind AlgenTech
               </p>
             </div>
           </div>
